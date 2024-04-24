@@ -1,0 +1,11 @@
+.csproj: contem informações referente a um projeto (build,debug,versão)
+
+.sln = solution: contem informações que carregam um agrupamento de projetos(referenciar projetos por exempço)
+
+criar referencias entre projetos(.csproj) pra cada um ficar responsavel por cada função , geralmente tem um projeto que fica com todas os metodos que tem em outros projetos, pra ele ficar responsavel apenas pra isso, assim criando uma referencia. (evita duplicar codigo, pior coisa e fzr isso)
+
+
+Principais Diferenças do .NET 5 E 6 
+
+- o METODO main (metodo principal) até a versão 5,já na versão 6 ela vem simplificada, vem explicito, mas msm asim ela continua existindo.
+
