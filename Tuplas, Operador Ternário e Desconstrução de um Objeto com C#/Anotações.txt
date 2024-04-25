@@ -1,0 +1,1 @@
+Tuplas - oferece sintax concisa para agrupar varios elementos de dados em uma estrutura de dados leve , de diferentes tipos
