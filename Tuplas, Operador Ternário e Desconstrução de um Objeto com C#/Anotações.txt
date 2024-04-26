@@ -2,3 +2,10 @@ Tuplas - oferece sintax concisa para agrupar varios elementos de dados em uma es
 
 Descontrutor - ele vai separar as informações no retorno(Deconstruct) , ele vai fazer a operação inversa (out)
 
+Serialização - e o processo em transformar objetos em fuxo de bytes para seu armazenamento ou transmissão.
+
+Deserialização - e fazer o processo inverso de serialização.
+
+JSON , e um formato de texto que segue a sintaxe do JS , muito usado transmitir dados entre aplicações (o json e uma serialização pra integrar e comunicar entre diferentes sistemas ou linguagens)
+
+
