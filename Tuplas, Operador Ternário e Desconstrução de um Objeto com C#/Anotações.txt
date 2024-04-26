@@ -1,1 +1,4 @@
 Tuplas - oferece sintax concisa para agrupar varios elementos de dados em uma estrutura de dados leve , de diferentes tipos
+
+Descontrutor - ele vai separar as informações no retorno(Deconstruct) , ele vai fazer a operação inversa (out)
+
