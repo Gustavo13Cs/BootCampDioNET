@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "63bUy8EDsbbUJ7g12wboZ0RUjrXZFBFhp+ddxod0xgm+6po8vb8QZ2/9JtTpyJ+FQaIS9/Twpyt1XVYvi0VgPw==",
+  "dgSpecHash": "0Kyjsn6aLj8aoQnKceaL5A5JujH8F6p2VT09XDES7EPGc1hWoxYUK4WAQ3EYzdjlNh/KOXETpFwDF59lvhYaqg==",
   "success": true,
   "projectFilePath": "C:\\Users\\gc126\\OneDrive\\Documentos\\GitHub\\BootCampDioNET\\Tuplas, Operador Ternário e Desconstrução de um Objeto com C#\\Tuplas, Operador Ternário e Desconstrução de um Objeto com C#.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gc126\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

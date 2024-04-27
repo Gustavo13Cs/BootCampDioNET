@@ -13,3 +13,6 @@ C:\Users\gc126\OneDrive\Documentos\GitHub\BootCampDioNET\Tuplas, Operador Terná
 C:\Users\gc126\OneDrive\Documentos\GitHub\BootCampDioNET\Tuplas, Operador Ternário e Desconstrução de um Objeto com C#\obj\Debug\net8.0\Tuplas, Operador Ternário e Desconstrução de um Objeto com C#.pdb
 C:\Users\gc126\OneDrive\Documentos\GitHub\BootCampDioNET\Tuplas, Operador Ternário e Desconstrução de um Objeto com C#\obj\Debug\net8.0\Tuplas, Operador Ternário e Desconstrução de um Objeto com C#.genruntimeconfig.cache
 C:\Users\gc126\OneDrive\Documentos\GitHub\BootCampDioNET\Tuplas, Operador Ternário e Desconstrução de um Objeto com C#\obj\Debug\net8.0\ref\Tuplas, Operador Ternário e Desconstrução de um Objeto com C#.dll
+C:\Users\gc126\OneDrive\Documentos\GitHub\BootCampDioNET\Tuplas, Operador Ternário e Desconstrução de um Objeto com C#\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\gc126\OneDrive\Documentos\GitHub\BootCampDioNET\Tuplas, Operador Ternário e Desconstrução de um Objeto com C#\obj\Debug\net8.0\Tuplas, Operador Ternário e Desconstrução de um Objeto com C#.csproj.AssemblyReference.cache
+C:\Users\gc126\OneDrive\Documentos\GitHub\BootCampDioNET\Tuplas, Operador Ternário e Desconstrução de um Objeto com C#\obj\Debug\net8.0\Tuplas, Operador Ternário e Desconstrução de um Objeto com C#.csproj.CopyComplete
