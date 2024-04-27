@@ -40,6 +40,11 @@ DataBase - e uma coleção de dados estruturados,agrupados de forma concisa , e 
 
 uma boa pratica na hora de consultar dados, e trazer dados apenas oq precisamos, pra n trafegar mto dados e acabar pesando
 
+Built-in functions são funções pre existentes que auxiliam na manipulação 
+
+Primary Key - chave unica que identifica cada registro na tabela
+Foreign key - chave que identifica um registro existente em outra tabela
+
 
 
 
