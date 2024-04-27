@@ -1,0 +1,62 @@
+Banco de dados é uma coleção organizada de informações ou dados estruturados, normalmente armazenados eletronicamente em um sistema de computador 
+
+estruturado = dados organizados.
+
+Banco de dados tbm tem mecanismo de segurança, pos nem todo mundo deveria ter acesso.
+
+Tipos de bancos 
+
+Relacional - o tipo mais usado atualmente, armazenados dados estruturados , sendo organizado em tabela, com colunas e linhas , que se relacionam entre si 
+(sql server, oracle database,MySql) todos funcionam da msm maneira
+
+
+Mysql - gratuito, pra coisas mais basicas e site pessoal
+Oracle,Sql server - pago, além de ser pra ser sistemas grandes (sistema de hospital)
+
+Tabela - sao dados estruturados e organizados logicamente em formato de linha e coluna.
+
+
+Não relacional - onde os dados não são armaenzados em tabela , e sim em armezenados de maneira não estruturadas ou semi-estruturado 
+(mongoDB)
+
+muito usado pra ter uma flexibilidade melhor , uma maior agilizade e rapidez
+
+semi-estruturado  - tem estrutura , mas n e tão organizado 
+
+no não relacional cada estrutura pode ter sua regra e seus atributo e tipos 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Linguagem SQL - e a linguagem de banco de dados usado para consulta e manipulção de dados. (linguagem padronizada para todos os bancos de dados)
+
+
+DDL - create, drop, alter,trucate 
+DCL - grant e revoke
+DML - insert, update,Delete
+TCL - commit, rollback,Save Point
+DQL - Select
+
+DataBase - e uma coleção de dados estruturados,agrupados de forma concisa , e composto de tabeças,proceduras, views,etc.
+
+uma boa pratica na hora de consultar dados, e trazer dados apenas oq precisamos, pra n trafegar mto dados e acabar pesando
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
