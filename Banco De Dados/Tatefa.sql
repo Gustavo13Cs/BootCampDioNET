@@ -1,32 +1,50 @@
-Select * From Clientes;
-Select * From Produtos;
+-- 1 
 
-Select * From Clientes ORDER BY Nome 
-Select * From Clientes ORDER BY Nome Desc
-Select * From Clientes ORDER BY Nome, Sobrenome
+Select Nome,Ano FROM Filmes
 
-Select Nome,Sobrenome,Email From Clientes 
+-- 2 
 
-Select * From Clientes WHERE Nome = 'Ken'
-Select * From Clientes WHERE Nome = 'Ken' AND Sobrenome = 'Sánchez'
-Select * From Clientes WHERE Nome = 'Ken' OR Sobrenome = 'Sánchez'
+Select Nome,Ano,Duracao From Filmes ORDER BY Ano asc
 
-Select * From Clientes Where  Nome Like 'G%'
+-- 3 
 
-INSERT INTO Clientes VALUES ('Gustavo','Cunha','email@email.com',0,'Jan  7 2009 12:00AM')
+Select * From Filmes WHERE Nome = 'De Volta para o futuro' 
 
-Update Clientes Set Email = 'gustavocunha0401@gmail.com' Where Id = 27 -- não pode esquecer de colocar o where, se n vai atualizar o de todos
+-- 4 
 
-Delete Clientes Where Id = 14
+Select * From Filmes WHERE Ano = '1997'
 
-ROLLBACK
-BEGIN TRAN
+-- 5 
 
-CREATE TABLE Produtos (
-	Id int IDENTITY(1,1) PRIMARY KEY NOT NULL,
-	Nome varchar(255) NOT NULL,
-	Cor varchar(50) NULL,
-	Preco decimal(13, 2) NOT NULL,
-	Tamanho varchar(5) NULL,
-	Genero char(1) NULL
-)
+Select * From Filmes WHERE Ano > '2000'
+
+-- 6
+
+Select * From Filmes 
+WHERE Duracao > '100' AND Duracao < '150'
+ORDER BY Duracao ASC
+
+-- 7 
+
+Select Ano,Count(*) Quantidade From Filmes where Ano <> '' Group By Ano order by Quantidade Desc
+
+-- 8 
+
+Select * From Atores Where Genero = 'M'
+
+-- 9 
+
+Select * From Atores Where Genero = 'F' order by PrimeiroNome asc
+
+-- 10 
+
+-- 11 
+
+-- 12
+
+
+
+
+
+
+
