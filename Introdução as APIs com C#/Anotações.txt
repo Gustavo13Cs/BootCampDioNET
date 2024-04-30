@@ -4,4 +4,3 @@ API funciona como um garçom , conectando o app/web com o server, basicamente um
 
 
 
-
