@@ -1,0 +1,8 @@
+Framework pra TESTE
+
+XUnit,Unit,MSTest - são otimos pra ajudar, principalmente pra testar DotNet Core
+
+TDD - Premissa = Regras de negecoios primeiramente nos testes
+
+Escreva um teste de unidade falho -> Torne o teste bem sucedido -> Refatore 
+

@@ -1,0 +1,41 @@
+Cloud - A cloud computing e o acesso sob demanda via internet , a recursos de computação, aplicativos e servidores, etc , hospedados em data center remoto , gerenciado por um provedor de serviços em cloud.
+
+Virtualização - utliza sofware para criar uma camada de abstração sobre hardware do computador , permitindo que os recursos de hardware de uma unico computador, sejam divididos em varios computadores virtuais.
+
+MicroServiços - são uma abordagem arquitetonica e organizacional do desenvolvimento de software no qual o software consite em pequenos serviços independentes que se comunicam usando APIs bem definidas 
+
+Container - são tecnologia usada para reunir um aplicativo e todos os seus arquivos necessarios em um ambiente de tempo de execução,como uma unidade , o conteiner pode ser facilmente movido e executado em qualquer sistema operecional
+
+Docker - e possivel lidar com os container como se fossem maquinas virtuais modulares e extremente leves
+
+Executando um contêiner
+
+docker pull ubuntu
+docker run ubuntu
+docker run ubuntu sleep 10
+docker run ubuntu sleep 1500
+docker stop [id]
+docker run --help
+docker run -it ubuntu
+
+Executando aplicações no contêiner
+docker run -dti  ubuntu 
+docker exec -it [id ou nome]  /bin/bash
+
+Excluindo e nomeando contêineres
+
+docker stop [id]
+docker rm [id]
+docker rmi [imagem]
+
+docker run -dti --name Ubuntu-A ubuntu
+
+Copiando arquivos para o contêiner
+
+docker exec -ti Ubuntu-A /bin/bash
+docker exec Ubuntu-A mkdir /destino/
+docker exec Ubuntu-A mkdir ls -l /
+nano Arquivo.txt
+docker cp arquivo.txt Ubuntu-A:/aula/
+
+
